@@ -4,7 +4,7 @@ This repository is created for suggesting updates to the by-laws of CS GSA of UC
 
 ## Why?
 
-The current by-laws are severely outdated and the current CS GSA cannot work under these laws due to inability to maintain all the positions (as some of them are outdated or impossible) or a requirement to use methods for voting not directly allowed in the by-laws (e.g., Google Forms). The goal is to update the by-laws to the current reality to make the CS GSA work possible-.
+The current by-laws are severely outdated and the current CS GSA cannot work under these laws due to inability to maintain all the positions (as some of them are outdated or impossible) or a requirement to use methods for voting not directly allowed in the by-laws (e.g., Google Forms). The goal is to update the by-laws to the current reality to make the CS GSA work possible.
 
 ## Contribution
 
