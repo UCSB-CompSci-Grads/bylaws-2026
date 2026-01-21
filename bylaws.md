@@ -22,7 +22,7 @@ The term “eligible students” as used in this document refers to all enrolled
 
 ### 3.2 Appropriate Digital Platform
 
-An "appropriate digital platform" shall be any platform that all eligible students have access to without requiring additional account creation *and* which is appropriate for the task at hand. Depending on the task at hand, appropriate digital platforms may include email, CS GSA website, Google Forms, Google Documents, Zoom, Google Meet, or similar. Each task at hand should clearly specify platforms to be used for the current task.
+An "appropriate digital platform" shall be any platform that all eligible students have access to without requiring additional account creation (that is, any digital platform which UCSB provides access for or any platform which requires no account or login) *and* which is appropriate for the task at hand. Depending on the task at hand, appropriate digital platforms may include email, CS GSA website, Google Forms, Google Documents, Zoom, Google Meet, or similar. Each task at hand should clearly specify platforms to be used for the current task.
 
 ## 4. Executive council
 
