@@ -42,7 +42,7 @@ The term of office of each member of the executive council is one calendar year.
 
 4.2.2. Self-nominations shall be made via appropriate digital platforms and whereby the student can be verified to be an eligible student (e.g. writing, email, Google Forms, or some other appropriate channel).
 
-4.2.3. If more than one candidate submits a self-nomination for any position of the executive council, the sitting council shall arrange for an election between these candidates. Elections shall follow the guidelines set forth in section 5.
+4.2.3. If more than one candidate contests a position in the executive council (after any possible discussions or agreements between such candidates), an election shall be arranged between these candidates. Elections shall follow the guidelines set forth in section 5.
 
 ### 4.3. Authority
 
