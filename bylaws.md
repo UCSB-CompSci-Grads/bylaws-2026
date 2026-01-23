@@ -101,6 +101,3 @@ A motion to overrule the council or to impeach any of its members shall require 
 ## 7. Adoption
 
 These by-laws shall become effective at the beginning of the academic quarter following their approval by the graduate students, and shall be approved by a simple majority of all graduate students.
-
-## TODO:
-- A bit more responsibilities for transparency to students and the work being public, 
