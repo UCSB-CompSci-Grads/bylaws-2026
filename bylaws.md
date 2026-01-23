@@ -50,7 +50,7 @@ The term of office of each member of the executive council is one calendar year.
 
 4.3.2. The council shall retain the authority to appoint additional position members as deemed necessary by a simple majority vote of the entire council.
 
-4.3.3. The council shall retain the authority to remove any appointee by a simple majority vote of the entire council. If any mandatory role becomes unfulfilled after removing an appointee, either a current council member should fulfill the position, or election for the position should be held.
+4.3.3. The council shall retain the authority to remove any appointee by a simple majority vote of the entire council. If any mandatory role becomes unfulfilled after removing an appointee or any other reason, either a current council member should fulfill the position, or election for the position should be held.
 
 4.3.4. On all matters other than appointments or removals, such as council decisions or actions, a simple majority of those council members present shall be required for approval.
 
