@@ -8,51 +8,57 @@ The name of this association shall be the Graduate Student Association, Computer
 
 ## 2. Purpose
 
-The objective of the CS GSA shall be to enhance the atmosphere for graduate studies in the department of Computer Science. This includes:
+The objective of the CS GSA shall be to build a community and enhance the atmosphere for graduate studies in the department of Computer Science. This includes:
 - Advocate improvements in graduate research, teaching conditions and facilities.
-- Increase student communication and camaraderie, and encourage student participation in departmental affairs.
+- Increase student communication and camaraderie, and encourage student participation in departmental affairs or student-run events.
 - Provide an effective channel for communication between graduate students and faculty, and promote active participation and representation in departmental affairs.
 - Represent the Computer Science graduate students in the campus-wide GSA.
 
-## 3. Definitions
+## 3. Common Definitions
 
-### 3.1 Eligible Students
+### 3.1. Eligible Students
 
-The term “eligible students” as used in this document refers to all enrolled graduate students accepted to graduate degree programs in the department of Computer Science at UCSB.
+The term "eligible students" as used in this document refers to all enrolled graduate students accepted to graduate degree programs in the department of Computer Science at UCSB.
 
-### 3.2 Appropriate Digital Platform
+### 3.2. Appropriate Digital Platform
 
 An "appropriate digital platform" shall be any platform that all eligible students have access to without requiring additional account creation *and* which is appropriate for the task at hand. Depending on the task at hand, appropriate digital platforms may include email, CS GSA website, Google Forms, Google Documents, Zoom, Google Meet, or similar. Each task at hand should clearly specify platforms to be used for the current task.
 
 ## 4. Executive council
 
-The CS GSA shall be administered by the CS GSA executive council. The executive council consists of three CS GSA representatives, including two representatives to the university-wide GSA. All council members, including all graduate representatives, shall be eligible students. The CS GSA shall never have fewer than three members, though it may have more than three.
+### 4.1. Definition
 
-Three members of the council are distinguished as president, secretary, and treasurer. The president shall serve as the spokesperson for the CS GSA and shall be a confirmed GSA representative. The president calls meetings, prepares agendas, and runs the council meetings. The secretary shall be responsible for minutes, public notices, and record keeping. The treasurer is responsible for the CS GSA funds.
+4.1.1. The CS GSA shall be administered by the CS GSA executive council elected from eligible students.
 
-Additional council member positions may be created by the executive council members (subject to a two-thirds majority vote of the executive council) or at the request of eligible students by the petition process detailed in section 6.
+4.1.2. The executive council should always have at least three CS GSA representatives distinguished as president, secretary, and treasurer (refered further as mandatory positions). The president shall serve as the spokesperson for the CS GSA and shall be a confirmed university-wide GSA representative. The president calls council meetings, prepares agendas, and holds repsonsibility for CS GSA work. The secretary shall be responsible for minutes, public notices, and record keeping. The treasurer is responsible for the CS GSA funds. No council member can simultaneously hold more than one mandatory position at the same time.
 
-### 4.1 Tenure
+4.1.3. Additional executive council member positions may be created by the current executive council members (subject to a simple majority vote of the current executive council) or at the request of eligible students by the petition process detailed below. Any council member (including officers on mandatory positions) can hold one or more additional executive council member position.
 
-The term of office of each member of the executive council is one year.
+### 4.2. Tenure
 
-4.1.1. In the beginning of the academic year the sitting council shall ask all eligible students for self-nominations to the executive council. Only eligible students may nominate themselves.
+The term of office of each member of the executive council is one calendar year.
 
-4.1.2. Self-nominations shall be made to the council via writing or appropriate digital platforms and whereby the student can be verified to be an eligible student (e.g. writing, email, Google Forms, or some other appropriate channel).
+4.2.1. In the beginning of the academic year the sitting council shall ask all eligible students for self-nominations to the executive council. Only eligible students may nominate themselves. If no sitting council exists for any reason, the elections can be organized by any eligible student.
 
-4.1.3. If more than one candidate submits a self-nomination for any position of the executive council, the sitting council shall arrange for an election between these candidates. Elections shall follow the guidelines set forth in section 5.
+4.2.2. Self-nominations shall be made via appropriate digital platforms and whereby the student can be verified to be an eligible student (e.g. writing, email, Google Forms, or some other appropriate channel).
 
-### 4.2 Authority
+4.2.3. If more than one candidate submits a self-nomination for any position of the executive council, the sitting council shall arrange for an election between these candidates. Elections shall follow the guidelines set forth in section 5.
 
-4.2.1. The council shall be authorized to act in its official capacity when a quorom of two-thirds of the executives is present.
+### 4.3. Authority
 
-4.2.2. The council shall retain the authority to appoint assistants as deemed necessary by a simple majority vote of the entire council.
+4.3.1. The council shall be authorized to act in its official capacity when a quorum of two-thirds of the executives is present.
 
-4.2.3. The council shall retain the authority to remove any appointee by a simple majority vote of the entire council.
+4.3.2. The council shall retain the authority to appoint additional position members as deemed necessary by a simple majority vote of the entire council.
 
-4.2.4. On all matters other than appointments or removals, a simple majority of those council members present shall be required for approval.
+4.3.3. The council shall retain the authority to remove any appointee by a simple majority vote of the entire council. If any mandatory role becomes unfulfilled after removing an appointee, either a current council member should fulfill the position, or election for the position should be held.
 
-4.2.5. The council shall provide reports of its activities to the Computer Science graduate students as it deems desirable. In addition, any graduate student may request the council to provide reports; however, the council may omit mention of issues specifically identified as confidential by the faculty.
+4.3.4. On all matters other than appointments or removals, such as council decisions or actions, a simple majority of those council members present shall be required for approval.
+
+### 4.4. Transparency Responsibilities
+
+4.4.1. The council shall aim for transparency in its work and provide reports of its activities (including meeting notes, current issues, etc.) to the eligible students via appropriate digital platforms.
+
+4.4.2. The council shall avoid disclosure of issues specifically identified as confidential by the faculty or other laws.
 
 ## 5. General Meetings and Elections
 
@@ -95,3 +101,6 @@ A motion to overrule the council or to impeach any of its members shall require 
 ## 7. Adoption
 
 These by-laws shall become effective at the beginning of the academic quarter following their approval by the graduate students, and shall be approved by a simple majority of all graduate students.
+
+## TODO:
+- A bit more responsibilities for transparency to students and the work being public, 
