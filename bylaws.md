@@ -18,7 +18,7 @@ The objective of the CS GSA shall be to build a community and enhance the atmosp
 
 ### 3.1. Eligible Students
 
-The term "eligible students" as used in this document refers to all enrolled graduate students accepted to graduate degree programs in the department of Computer Science at UCSB. CS GSA should equally treat and represent all eligible students. 
+The term "eligible students" as used in this document refers to all enrolled graduate students accepted to graduate degree programs in the department of Computer Science at UCSB. CS GSA shall treat all students equally and shall equally represent all eligible students. 
 
 ### 3.2. Appropriate Digital Platform
 
@@ -30,9 +30,9 @@ An "appropriate digital platform" shall be any platform that all eligible studen
 
 4.1.1. The CS GSA shall be administered by the CS GSA executive council elected from eligible students.
 
-4.1.2. The executive council should always have at least three CS GSA representatives distinguished as president, secretary, and treasurer (refered further as mandatory positions). The president shall serve as the spokesperson for the CS GSA and shall be a confirmed university-wide GSA representative. The president calls council meetings, prepares agendas, and holds repsonsibility for CS GSA work. The secretary shall be responsible for minutes, public notices, and accurate and complete record keeping. The treasurer is responsible for the CS GSA funds. No council member can simultaneously hold more than one mandatory position at the same time.
+4.1.2. The executive council should always have at least three CS GSA representatives distinguished as president, secretary, and treasurer (refered to further as mandatory positions). The president shall serve as the spokesperson for the CS GSA and shall be a confirmed university-wide GSA representative. The president calls council meetings, prepares agendas, and holds repsonsibility for CS GSA work. The secretary shall be responsible for minutes, public notices, and accurate and complete record keeping. The treasurer is responsible for the CS GSA funds. No council member can simultaneously hold more than one mandatory position at the same time.
 
-4.1.3. Additional executive council member positions may be created by the current executive council members (subject to a simple majority vote of the current executive council) or at the request of eligible students by the petition process detailed below. Any council member (including officers on mandatory positions) can hold one or more additional executive council member position.
+4.1.3. Additional executive council member positions may be created by the current executive council members (subject to a simple majority vote of the current executive council) or at the request of eligible students by the petition process detailed in Section 5. Any council member (including officers on mandatory positions) can hold one or more additional executive council member position.
 
 ### 4.2. Tenure
 
@@ -40,7 +40,7 @@ The term of office of each member of the executive council is one calendar year.
 
 4.2.1. In the beginning of the academic year the sitting council shall ask all eligible students for self-nominations to the executive council. Only eligible students may nominate themselves. If no sitting council exists for any reason, the elections can be organized by any eligible student.
 
-4.2.2. Self-nominations shall be made via appropriate digital platforms and whereby the student can be verified to be an eligible student (e.g. writing, email, Google Forms, or some other appropriate channel).
+4.2.2. Self-nominations shall be made via appropriate digital platforms and whereby the student can be verified to be an eligible student (e.g. email, Google Forms, or some other appropriate channel).
 
 4.2.3. If more than one candidate contests a position in the executive council (after any possible discussions or agreements between such candidates), an election shall be arranged between these candidates. Elections shall follow the guidelines set forth in section 5.
 
@@ -68,7 +68,7 @@ The term of office of each member of the executive council is one calendar year.
 
 5.3. CS GSA is required to make a great effort to notify all eligible students about the general meeting, vote, or election, using official department distribution channels and (potentially) multiple appropriate digital platforms, to ensure that all eligible students are aware and can participate.
 
-5.4. CS GSA should aim to hold elections and votings as fair as possible. CS GSA can utilize various voting systems, such as majority vote, first-past-the-post, or ranked voting, and motions pass using the voting rules of the chosen voting system. The voting method and counting rules must be announced with the notice and may not change during the voting period.
+5.4. CS GSA should aim to hold elections and votes that are as fair as possible. CS GSA can utilize various voting systems, such as majority vote, first-past-the-post, or ranked voting, and motions pass using the voting rules of the chosen voting system. The voting method and counting rules must be announced with the notice and may not change during the voting period.
 
 5.5. Each eligible student has one vote. Votes may be conducted in-person, in writing, or via an appropriate digital platform that reasonably verifies voter eligibility.
 
