@@ -10,7 +10,8 @@ The name of this association shall be the Graduate Student Association, Computer
 
 The objective of the CS GSA shall be to build a community and enhance the atmosphere for graduate studies in the department of Computer Science. This includes:
 - Advocate improvements in graduate research, teaching conditions, and facilities.
-- Increase student communication and camaraderie, aim to help with organization, assistance in procuring fundings, and student participation in student-run events, departmental affairs, or cross-department collaborations.
+- Increase student communication and camaraderie in the department.
+- Aim to help with organization, assistance in procuring fundings, and student participation in student-run events, departmental affairs, or cross-department collaborations.
 - Provide an effective channel for communication between graduate students and faculty and serve (whenever appropriate) as spokepersons between them.
 - Represent the Computer Science graduate students in the campus-wide GSA.
 
