@@ -8,90 +8,87 @@ The name of this association shall be the Graduate Student Association, Computer
 
 ## 2. Purpose
 
-The objective of the CS GSA shall be to enhance the atmosphere for graduate studies in the department of Computer Science. This includes:
-- Advocate improvements in graduate research, teaching conditions and facilities.
-- Increase student communication and camaraderie, and encourage student participation in departmental affairs.
-- Provide an effective channel for communication between graduate students and faculty, and promote active participation and representation in departmental affairs.
+The objective of the CS GSA shall be to build a community and enhance the atmosphere for graduate studies in the department of Computer Science. This includes:
+- Advocate improvements in graduate research, teaching conditions, and facilities.
+- Increase student communication and camaraderie in the department.
+- Aim to help with organization, assistance in procuring fundings, and student participation in student-run events, departmental affairs, or cross-department collaborations.
+- Provide an effective channel for communication between graduate students and faculty and serve (whenever appropriate) as spokepersons between them.
 - Represent the Computer Science graduate students in the campus-wide GSA.
 
-## 3. Definitions
+## 3. Common Definitions
 
-### 3.1 Eligible Students
+### 3.1. Eligible Students
 
-The term “eligible students” as used in this document refers to all enrolled graduate students accepted to graduate degree programs in the department of Computer Science at UCSB.
+The term "eligible students" as used in this document refers to all enrolled graduate students accepted to graduate degree programs in the department of Computer Science at UCSB. CS GSA shall treat all students equally and shall equally represent all eligible students. 
 
-### 3.2 Appropriate Digital Platform
+### 3.2. Appropriate Digital Platform
 
 An "appropriate digital platform" shall be any platform that all eligible students have access to without requiring additional account creation *and* which is appropriate for the task at hand. Depending on the task at hand, appropriate digital platforms may include email, CS GSA website, Google Forms, Google Documents, Zoom, Google Meet, or similar. Each task at hand should clearly specify platforms to be used for the current task.
 
 ## 4. Executive council
 
-The CS GSA shall be administered by the CS GSA executive council. The executive council consists of three CS GSA representatives, including two representatives to the university-wide GSA. All council members, including all graduate representatives, shall be eligible students. The CS GSA shall never have fewer than three members, though it may have more than three.
+### 4.1. Definition
 
-Three members of the council are distinguished as president, secretary, and treasurer. The president shall serve as the spokesperson for the CS GSA and shall be a confirmed GSA representative. The president calls meetings, prepares agendas, and runs the council meetings. The secretary shall be responsible for minutes, public notices, and record keeping. The treasurer is responsible for the CS GSA funds.
+4.1.1. The CS GSA shall be administered by the CS GSA executive council elected from eligible students.
 
-Additional council member positions may be created by the executive council members (subject to a two-thirds majority vote of the executive council) or at the request of eligible students by the petition process detailed in section 6.
+4.1.2. The executive council should always have at least three CS GSA representatives distinguished as president, secretary, and treasurer (refered to further as mandatory positions). The president shall serve as the spokesperson for the CS GSA and shall be a confirmed university-wide GSA representative. The president calls council meetings, prepares agendas, and holds repsonsibility for CS GSA work. The secretary shall be responsible for minutes, public notices, and accurate and complete record keeping. The treasurer is responsible for the CS GSA funds. No council member can simultaneously hold more than one mandatory position at the same time.
 
-### 4.1 Tenure
+4.1.3. Additional executive council member positions may be created by the current executive council members (subject to a simple majority vote of the current executive council) or at the request of eligible students by the petition process detailed in Section 5. Any council member (including officers on mandatory positions) can hold one or more additional executive council member position.
 
-The term of office of each member of the executive council is one year.
+### 4.2. Tenure
 
-4.1.1. In the beginning of the academic year the sitting council shall ask all eligible students for self-nominations to the executive council. Only eligible students may nominate themselves.
+The term of office of each member of the executive council is one calendar year.
 
-4.1.2. Self-nominations shall be made to the council via writing or appropriate digital platforms and whereby the student can be verified to be an eligible student (e.g. writing, email, Google Forms, or some other appropriate channel).
+4.2.1. In the beginning of the academic year the sitting council shall ask all eligible students for self-nominations to the executive council. Only eligible students may nominate themselves. If no sitting council exists for any reason, the elections can be organized by any eligible student.
 
-4.1.3. If more than one candidate submits a self-nomination for any position of the executive council, the sitting council shall arrange for an election between these candidates. Elections shall follow the guidelines set forth in section 5.
+4.2.2. Self-nominations shall be made via appropriate digital platforms and whereby the student can be verified to be an eligible student (e.g. email, Google Forms, or some other appropriate channel).
 
-### 4.2 Authority
+4.2.3. If more than one candidate contests a position in the executive council (after any possible discussions or agreements between such candidates), an election shall be arranged between these candidates. Elections shall follow the guidelines set forth in section 5.
 
-4.2.1. The council shall be authorized to act in its official capacity when a quorom of two-thirds of the executives is present.
+### 4.3. Authority
 
-4.2.2. The council shall retain the authority to appoint assistants as deemed necessary by a simple majority vote of the entire council.
+4.3.1. The council shall be authorized to act in its official capacity when a quorum of two-thirds of the executives is present.
 
-4.2.3. The council shall retain the authority to remove any appointee by a simple majority vote of the entire council.
+4.3.2. The council shall retain the authority to appoint additional position members as deemed necessary by a simple majority vote of the entire council.
 
-4.2.4. On all matters other than appointments or removals, a simple majority of those council members present shall be required for approval.
+4.3.3. The council shall retain the authority to remove any appointee by a simple majority vote of the entire council. If any mandatory role becomes unfulfilled after removing an appointee or any other reason, either a current council member should fulfill the position, or election for the position should be held.
 
-4.2.5. The council shall provide reports of its activities to the Computer Science graduate students as it deems desirable. In addition, any graduate student may request the council to provide reports; however, the council may omit mention of issues specifically identified as confidential by the faculty.
+4.3.4. On all matters other than appointments or removals, such as council decisions or actions, a simple majority of those council members present shall be required for approval.
 
-## 5. General Meetings and Elections
+### 4.4. Transparency Responsibilities
 
-5.1. The council shall retain the authority to call a meeting of the Graduate Students as it deems necessary.
+4.4.1. The council shall aim for transparency in its work and provide reports of its activities (including meeting notes, current issues, etc.) to the eligible students via appropriate digital platforms.
 
-5.2. Similarly the Graduate Students may demand a general meeting by submission of a written petition. Such a petition shall make clear the reason for requesting a meeting, and shall be endorsed by 10% of the graduate students, or at least 12 graduate students (as attested by their signatures), whichever number is smaller. Upon receipt of such a petition the council shall call a general student meeting within a reasonable time period.
+4.4.2. The council shall avoid disclosure of issues specifically identified as confidential by the faculty or other laws.
 
-5.3. Notice of all general meetings or public votes shall be given in an appropriate public manner within a reasonable time prior to their occurrence. The tentative agenda of a general meeting known at the time of its announcement shall be part of the notice.
+## 5. General Meetings, Votes, and Elections
 
-5.4. A quorum for a public meeting consists of at least 20% of the graduate student body or 24 graduate students. A quorum must be present before voting on any motion in a general meeting may occur. Only eligible students may cast votes, with one vote per eligible student.
+5.1. The council may call general meetings and votes of the Graduate Students as necessary. The council shall hold at least one general meeting each academic quarter.
 
-5.5. Votes may be conducted digitally under the following conditions: such votes must be administered by the council; adequate notice of the motions being voted on must be provided to all graduate students, with time and means allocated for adequate public discussion (which may occur via email or other appropriate digital platforms); such votes must be conducted during the Fall, Winter, or Spring quarters, and must not occur on any holidays or school breaks; students must be given a reasonable time to cast their vote, one week minimum. Digital votes conducted under these conditions are assumed to have quorum if at least 25% of students have cast ballots.
+5.2. Notice of any general meeting, vote, or election shall be provided within a reasonable timeline (but no less than 7 days in advance) and shall include the tentative agenda of the meeting/vote.
 
-5.6. Given a quorum, motions pass under the following formulas.
+5.3. CS GSA is required to make a great effort to notify all eligible students about the general meeting, vote, or election, using official department distribution channels and (potentially) multiple appropriate digital platforms, to ensure that all eligible students are aware and can participate.
 
-Formula for Public Meetings:
-- If 35% of students cast ballots, motions pass by majority of the ballots cast.
-- if fewer than 35% of students cast ballots, motions require 2/3 support of ballots cast to pass.
+5.4. CS GSA should aim to hold elections and votes that are as fair as possible. CS GSA can utilize various voting systems, such as majority vote, first-past-the-post, or ranked voting, and motions pass using the voting rules of the chosen voting system. The voting method and counting rules must be announced with the notice and may not change during the voting period.
 
-Formula for Digital Voting:
-- If 40% of students cast ballots, motions pass by majority of the ballots cast.
-- If fewer than 40% of students cast ballots, motions require 2/3 support of ballots cast to pass.
-
-In any voting, when motions or elections present several choices, in the case where no single choice gets sufficient votes to pass a runoff vote shall take place between the two choices that received the most votes.
+5.5. Each eligible student has one vote. Votes may be conducted in-person, in writing, or via an appropriate digital platform that reasonably verifies voter eligibility.
 
 ## 6. Rights of the Graduate Students.
 
-The Graduate Students have the power to:
-- Demand an accounting of all decisions of the executive council.
+6.1. The Graduate Students have the power to:
+- Demand an accounting of official actions of the executive council.
+- Demand a general meeting or vote of eligible students on a stated question.
 - Overrule the council policy decisions.
-- Vote to impeach any member of the council.
-- Amend these by-laws.
+- Vote to elect new or impeach any member of the council.
+- Amend these by-laws as defined in Section 7.
 
-Any such action shall be requested by submission of a petition (physical or via appropriate digital platforms). Such a petition shall make clear the nature of the petition and reason for its submission, and shall be endorsed by at least 10% of the graduate student body. Upon receipt of such petition the council shall respond within a reasonable time period, and call a general student meeting if requested.
+6.2. Any such action shall be requested by submission of a petition (physical or via appropriate digital platforms). Such a petition shall make clear the nature of the petition and reason for its submission, and shall be endorsed by at least 10% of the graduate student body or 12 people (whichever number is less). Upon receipt of such petition the council shall respond within a reasonable time period (but no more than 7 days) and call a meeting, vote, or election if requested.
 
-A motion to amend these by-laws shall require an affirmative vote of two-thirds of ballots cast, when 40% or more eligible students cast ballots, to pass; such a motion shall not pass when fewer than 40% of students cast ballots.
+6.3. Any motion of graduate students require the same conditions to pass as motions defined in Section 5.
 
-A motion to overrule the council or to impeach any of its members shall require the same conditions as regular motions to pass. An impeached member shall be replaced within a reasonable time period through the process of nomination and general election as specified in sections 4.1.2 and 4.1.3.
+## 7. By-Laws Updates and Adoption
 
-## 7. Adoption
+7.1. A motion to amend these by-laws shall follow rules defined in Section 5. In addition, such a motion requires either a) at least 30% of eligible students cast ballots or b) approval by at least 2/3 of votes cast.
 
-These by-laws shall become effective at the beginning of the academic quarter following their approval by the graduate students, and shall be approved by a simple majority of all graduate students.
+7.2. These by-laws shall become effective on the date specified in the motion, or immediately upon approval if no such date is specified. These by-laws shall not take effect retroactively.
+
