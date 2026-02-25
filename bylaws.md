@@ -1,6 +1,6 @@
 
 # By-laws of The Computer Science Graduate Student Association
-Version: 3.0 Final (May 6th, 1996)
+Version: 3.0 Final (March 2026)
 
 ## 1. Name
 
@@ -31,7 +31,7 @@ An "appropriate digital platform" shall be any platform that all eligible studen
 
 4.1.1. The CS GSA shall be administered by the CS GSA executive council elected from eligible students.
 
-4.1.2. The executive council should always have at least three CS GSA representatives distinguished as president, secretary, and treasurer (refered to further as mandatory positions). The president shall serve as the spokesperson for the CS GSA and shall be a confirmed university-wide GSA representative. The president calls council meetings, prepares agendas, and holds repsonsibility for CS GSA work. The secretary shall be responsible for minutes, public notices, and accurate and complete record keeping. The treasurer is responsible for the CS GSA funds. No council member can simultaneously hold more than one mandatory position at the same time.
+4.1.2. The executive council should always have at least three CS GSA representatives distinguished as president, secretary, and treasurer (refered to further as mandatory positions). The president shall serve as the spokesperson for the CS GSA and shall be a confirmed university-wide GSA representative. The president calls council meetings, prepares agendas, and holds responsibility for CS GSA work. The secretary shall be responsible for minutes, public notices, and accurate and complete record keeping. The treasurer is responsible for the CS GSA funds. No council member can simultaneously hold more than one mandatory position at the same time.
 
 4.1.3. Additional executive council member positions may be created by the current executive council members (subject to a simple majority vote of the current executive council) or at the request of eligible students by the petition process detailed in Section 5. Any council member (including officers on mandatory positions) can hold one or more additional executive council member position.
 
